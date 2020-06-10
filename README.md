@@ -1,13 +1,21 @@
+<h1 align="center">
+    <img src="https://ik.imagekit.io/jlzh3neixu/noticias_52iQLn0Dy.png">
+</h1>
 
-# Notícias Cidade
 
-Simples projecto com uma página HTML e CSS3 sem qualquer interatividade. Desenvolvido para treinamento das técnicas de HTML5 E CSS.
+# 🎯Sobre
 
-## Funcionamento
+Este projecto foi desenvolvido no curso sobre desenvolvimento web - Udemy, como forma de fixar os conhecimenntos de HTML e CSS, abordados durante o curso.
 
-O projecto foi desenvolvido utilizando o sublime text editor. Este projecto tem como finalidade apresentar os conhecimentos de HTML e CSS. 
-Basta clonar o repositório e rodar no seu computador.
+---
 
-## Autor
+# 📂Ferramentas Utilizadas
 
-José Ulombe
+O projecto foi desenvolvido utilizando as seguintes ferramentas:
+
+- HTML
+- CSS
+
+---
+
+Desenvolvido com 💜por José Ulombe
