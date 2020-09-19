@@ -1,0 +1,20 @@
+{
+  "name": "noticias-cidade",
+  "version": "1.0.0",
+  "description": "<h1 align=\"center\">     <img src=\"https://ik.imagekit.io/jlzh3neixu/noticias_52iQLn0Dy.png\"> </h1>",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/julombe/noticias-cidade.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/julombe/noticias-cidade/issues"
+  },
+  "homepage": "https://github.com/julombe/noticias-cidade#readme"
+}
