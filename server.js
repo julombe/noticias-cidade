@@ -5,6 +5,13 @@ const nunjucks = require('nunjucks')
 
 const server = express()
 
+//configuring template engine
+server.set("view engine", "html")
+
+nunjucks.configure("views", {
+    express: server
+})
+
 
 
 
