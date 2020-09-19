@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/julombe/noticias-cidade/issues"
   },
-  "homepage": "https://github.com/julombe/noticias-cidade#readme"
+  "homepage": "https://github.com/julombe/noticias-cidade#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
