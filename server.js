@@ -12,7 +12,10 @@ server.use(express.static('public'))
 server.set("view engine", "html")
 
 nunjucks.configure("views", {
-    express: server
+    express: server,
+    autoescape: false,
+    noCache: true
+    
 })
 
 
