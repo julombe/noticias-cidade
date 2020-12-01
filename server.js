@@ -8,6 +8,7 @@ const server = express()
 
 //Using CSS
 server.use(express.static('public'))
+server.use(routes)
 
 //configuring template engine
 server.set("view engine", "html")
