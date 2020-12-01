@@ -21,23 +21,6 @@ nunjucks.configure("views", {
 })
 
 
-//adding route
-server.get("/", function(req, res) {
-    return res.render("index")
-})
-
-server.get("/brasil", function(req, res) {
-    return res.render("brasil")
-})
-
-
-
-
-
-
-
-
-
 //starting server
 server.listen(3000, function() {
     console.log("server is running")
