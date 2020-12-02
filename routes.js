@@ -11,6 +11,11 @@ routes.get("/brasil", function(req, res) {
 })
 
 
+routes.get("/fotos", function(req, res) {
+    return res.render("fotos")
+})
+
+
 
 
 module.exports = routes
