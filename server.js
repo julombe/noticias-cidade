@@ -11,7 +11,7 @@ server.use(express.static('public'))
 server.use(routes)
 
 //configuring template engine
-server.set("view engine", "html")
+server.set("view engine", "njk")
 
 nunjucks.configure("views", {
     express: server,
