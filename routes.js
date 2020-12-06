@@ -15,6 +15,11 @@ routes.get("/fotos", function(req, res) {
     return res.render("fotos")
 })
 
+routes.get("/internacional", function(req, res) {
+    return res.render("internacional")
+})
+
+
 
 
 
