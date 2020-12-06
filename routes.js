@@ -15,6 +15,20 @@ routes.get("/internacional", function(req, res) {
 })
 
 
+routes.get("/economia", function(req, res) {
+    return res.render("economia")
+})
+
+
+routes.get("/saude", function(req, res) {
+    return res.render("saude")
+})
+
+
+routes.get("/ciencia", function(req, res) {
+    return res.render("ciencia")
+})
+
 routes.get("/fotos", function(req, res) {
     return res.render("fotos")
 })
